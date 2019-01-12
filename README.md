@@ -5,3 +5,4 @@ Graph input being an adjacency matrix.
 Breadth First Search(BFS) and Depth First Search(DFS) algorithms for traversing through a graph.
 
 ### For CS302(Algorithms) - Kerala Technological University.
+Made for academic purpose and reference only.
